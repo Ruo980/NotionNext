@@ -211,18 +211,18 @@ const BLOG = {
             'http://p2.music.126.net/dM_2lEqG7ZP7l0NjoApPFg==/109951168232666774.jpg'
     },
     {
-      name: '老街',
-      artist: '街憬',
-      url: 'https://music.163.com/song/media/outer/url?id=1889941816.mp3',
+      name: '年少有为',
+      artist: '李荣浩',
+      url: 'https://music.163.com/song/media/outer/url?id=1293886117.mp3',
       cover:
-            'http://p2.music.126.net/9DJPJUPUG2RwZBnAaA9YDA==/109951168264949359.jpg'
+            'https://p1.music.126.net/tt8xwK-ASC2iqXNUXYKoDQ==/109951163606377163.jpg'
     },
     {
-      name: '半岛铁盒',
-      artist: 'Clave',
-      url: 'https://music.163.com/song/media/outer/url?id=2062158433.mp3',
+      name: 'Into You',
+      artist: 'Matisse & Sadko / Hanne Mjøen',
+      url: 'https://music.163.com/song/media/outer/url?id=523042017.mp3',
       cover:
-            'http://p2.music.126.net/TWLOtY3Ehw1-3FMqI-oigQ==/109951168542304918.jpg'
+            'https://p1.music.126.net/uiJ95JX05t47fwmOWo0kog==/109951164361917909.jpg'
     }
   ],
   MUSIC_PLAYER_METING: process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING || false, // 是否要开启 MetingJS，从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST，更多配置信息：https://github.com/metowolf/MetingJS
